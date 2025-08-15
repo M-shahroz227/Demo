@@ -1,2 +1,3 @@
 # Demo
-This is a my first code repository
+This is a my first code repository..
+Author Muhammad Shahroz...
